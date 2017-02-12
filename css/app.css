@@ -1,0 +1,19 @@
+p {
+	text-align: justify;
+	background: black;
+}
+
+figure {
+	border: 1px	solid black; 
+	width: 300px;
+	padding: 10px;
+}
+
+img {
+	width:inherit;
+}
+
+figcaption {
+	font-style: italic;
+	text-align: center;
+}
