@@ -1,10 +1,22 @@
 
 .name {
-	width: 20px;
+	width: 20%;
 	float: left;
 }
 
 .biography {
-	width: 80px;
+	width: 80%;
 	float: left;
+}
+
+.my-paragraph-indent {
+	padding: 10px;
+}
+
+.first-line {
+	color: red;
+}
+
+.name > h2 {
+	font-style: italic;
 }
