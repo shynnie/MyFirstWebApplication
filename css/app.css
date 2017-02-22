@@ -1,8 +1,13 @@
 p {
 	text-align: justify;
-	background: black;
+	
 }
 
+body {
+	background-color: rgb(230, 230, 250	);
+	
+	padding: 10px 20px 10px 20px;
+}
 figure {
 	border: 1px	solid black; 
 	width: 300px;
